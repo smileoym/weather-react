@@ -1,0 +1,12 @@
+.add-city-weather {
+    margin: 20px;
+    padding: 20px;
+    margin-top: 30px;
+    background: #DDFFEE;
+    text-align: center;
+}
+
+input {
+	padding: 4px 0px 5px 10px;
+	margin-right: 10px;
+}
